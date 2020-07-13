@@ -9,7 +9,7 @@ let subtracton = valueOne - valueTwo
 let multiplication = valueOne * valueTwo
 let division = valueOne / valueTwo
 //bottom section
-print(addition)
-print(subtracton)
-print(multiplication)
-print(division)
+print("Addition: " + String(addition))
+print("Subtraction: " + String(subtracton))
+print("Multiplication: " + String(multiplication))
+print("Division: " + String(division))
